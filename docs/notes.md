@@ -34,3 +34,4 @@ Notes and usage details for rename.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- add a note about the defaults
