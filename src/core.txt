@@ -48,3 +48,4 @@ The Rename CLI Tool is a utility designed to modify your Flutter project's AppNa
 # guard against empty input
 # keep defaults in sync with the manifest
 # clarify the control flow
+# handle the edge case from the last release
